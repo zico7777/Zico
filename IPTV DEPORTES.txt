@@ -1,0 +1,88 @@
+#EXTM3U
+x-tv-url="
+https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+
+#EXTINF:-1 tvg-id="LA LIGA TV M+" tvg-name="LA LIGA TV M+" tvg-logo="https://i.ibb.co/Q7d6hqjR/laligatv-por-movistar-plus-logo-png-seeklogo-490011.png",LA LIGA TV M+
+http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/130125
+
+#EXTINF:-1 tvg-id="PREMIER SPORT  1" tvg-name="PREMIER SPORT 1" tvg-logo="http://imgfz.com/i/a8J03zf.png",PREMIER SPORT 1
+http://kstv.us:8080/Abel1961/4045997688/47858
+
+#EXTINF:-1 tvg-id="SKY SPORT LA LIGA" tvg-name="SKY SPORT LA LIGA" tvg-logo="http://imgfz.com/i/agdLjT4.png",SKY SPORT LA LIGA
+http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/369989
+
+#EXTINF:-1 tvg-id="DAZN LA LIGA" tvg-name="DAZN LA LIGA" tvg-logo="http://imgfz.com/i/Y1ltIru.jpeg",DAZN LA LIGA
+http://iptvpro.premium-tv.org:8789/Testtt34/1663892/281438
+
+#EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="http://imgfz.com/i/ucXZUDx.png",ESPN 1
+http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/31416
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="http://imgfz.com/i/fwVAjNd.png",ESPN 2
+http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/173
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="http://imgfz.com/i/NQVX6rZ.png",ESPN 3
+http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/174
+
+#EXTINF:-1 tvg-id="ESPN DEPORTES" tvg-name="ESPN DEPORTES" tvg-logo="http://imgfz.com/i/mjDds5l.png",ESPN DEPORTES
+http://kstv.us:8080/Abel1961/4045997688/47105
+
+#EXTINF:-1 tvg-id="ESPN DEPORTES BK" tvg-name="ESPN DEPORTES" tvg-logo="http://imgfz.com/i/mjDds5l.png",ESPN DEPORTES BK
+http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/212
+
+#EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="http://imgfz.com/i/9VImknQ.jpeg",TUDN
+http://kstv.us:8080/Abel1961/4045997688/23235
+
+#EXTINF:-1 tvg-id="D SPORT 1" tvg-name="D SPORT 1" tvg-logo="http://imgfz.com/i/jeDZ08o.png",D SPORT 1
+http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/167
+
+#EXTINF:-1 tvg-id="D SPORT 2" tvg-name="D SPORT 2" tvg-logo="http://imgfz.com/i/jeDZ08o.png",D SPORT 2
+http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/75988
+
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="TELEMUNDO" tvg-logo="http://imgfz.com/i/NfWETI6.jpeg",TELEMUNDO
+http://nocable.cc:8080/7k2pyA/974196/56410
+
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1" tvg-logo="http://imgfz.com/i/rOj1ACN.png",SPORT TV 1
+http://cord-cutter.net:8080/885522/225588/266568
+
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="http://imgfz.com/i/j7A4QEl.png",SPORT TV 2
+http://kstv.us:8080/Abel1961/4045997688/48497
+
+#EXTINF:-1 tvg-id="SPORTV 1 BR" tvg-name="SPORTV 1" tvg-logo="http://imgfz.com/i/9SpWDcQ.png",SPORTV 1
+http://172.110.219.251:8070/mariopalberto/hdnc64dXsZy75/4015
+
+#EXTINF:-1 tvg-id="FS 1" tvg-name="FS 1" tvg-logo="http://imgfz.com/i/FQrnO9c.png",FS 1
+http://cord-cutter.net:8080/885522/225588/46792
+
+#EXTINF:-1 tvg-id="FS 2" tvg-name="FS 2" tvg-logo="https://i.ibb.co/hFRYCFFH/fs2.png",FS 2
+http://cord-cutter.net:8080/885522/225588/1847
+
+#EXTINF:-1 tvg-id="BEIN SPORT 1" tvg-name="BEIN SPORT 1" tvg-logo="https://i.ibb.co/VWNsvmBB/bein-sports-1-logo-png-seeklogo-481583.png",BEIN SPORT 1
+http://datahub11.com:80/2FiK3FLthb/gQEnbRepwC/652333
+
+#EXTINF:-1 tvg-id="BEIN SPORT 2" tvg-name="BEIN SPORT 2" tvg-logo="https://i.ibb.co/CsMXPHRg/be-IN-SPORTS2-DIGITAL-Mono.png",BEIN SPORT 2
+http://datahub11.com:80/2FiK3FLthb/gQEnbRepwC/652334
+
+#EXTINF:-1 tvg-id="BEIN SPORT 3" tvg-name="BEIN SPORT 3" tvg-logo="https://i.ibb.co/LDdcbDHG/bein-sports-3-logo-png-seeklogo-481585.png",BEIN SPORT 3
+http://datahub11.com:80/2FiK3FLthb/gQEnbRepwC/652335
+
+#EXTINF:-1 tvg-id="BEIN SPORT 4" tvg-name="BEIN SPORT 4" tvg-logo="https://i.ibb.co/gXqHKwG/be-IN-SPORTS4-DIGITAL-Mono.png",BEIN SPORT 4
+http://datahub11.com:80/2FiK3FLthb/gQEnbRepwC/652336
+
+#EXTINF:-1 tvg-id="BEIN SPORT ESPAÑOL" tvg-name="BEIN SPORT ESPAÑOL" tvg-logo="https://i.ibb.co/LDQQGk9Y/bein-sport-logo-png-seeklogo-314494.png",BEIN SPORT ESPAÑOL
+http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/235
+
+#EXTINF:-1 tvg-id="BEIN SPORT 1 FR" tvg-name="BEIN SPORT 1 FR" tvg-logo="https://i.ibb.co/SXy9SZWp/bein-sport-logo-png-seeklogo-249497.png",BEIN SPORT 1 FR
+http://datahub11.com:80/2FiK3FLthb/gQEnbRepwC/652347
+
+#EXTINF:-1 tvg-id="BEIN SPORT FR 2" tvg-name="BEIN SPORT FR 2" tvg-logo="https://i.ibb.co/SXy9SZWp/bein-sport-logo-png-seeklogo-249497.png",BEIN SPORT FR 2
+http://datahub11.com:80/2FiK3FLthb/gQEnbRepwC/652348
+
+#EXTINF:-1 tvg-id="TNT SPORT UK" tvg-name="TNT SPORT UK" tvg-logo="https://i.ibb.co/JjP7j4dS/TNT-Sports-Logo-Stacked-300x300.png",TNT SPORT UK
+http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/52004
+
+#EXTINF:-1 tvg-id="TNT SPORT 2 UK" tvg-name="TNT SPORT 2 UK" tvg-logo="https://i.ibb.co/JjP7j4dS/TNT-Sports-Logo-Stacked-300x300.png",TNT SPORT 2 UK
+http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/52005
+
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="http://imgfz.com/i/u1bUfk4.png",TSN 1
+https://line.gofast-tv.me:80/live/70d9801e71/a6c105a02d/2077044.m3u8
+
