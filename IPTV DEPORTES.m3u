@@ -12,13 +12,13 @@ http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/369989
 #EXTINF:-1 tvg-id="DAZN LA LIGA" tvg-name="DAZN LA LIGA" tvg-logo="http://imgfz.com/i/Y1ltIru.jpeg",DAZN LA LIGA
 http://theking365tv.me/wajkCVB6xE/8913153114/26366
 
-#EXTINF:-1 tvg-id="Canal.ESPN.(Argentina)" tvg-name="ESPN 1" tvg-logo="http://imgfz.com/i/ucXZUDx.png",ESPN 1
+#EXTINF:-1 tvg-id="Canal.ESPN.(Argentina).ar" tvg-name="ESPN 1" tvg-logo="http://imgfz.com/i/ucXZUDx.png",ESPN 1
 http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/31416
 
-#EXTINF:-1 tvg-id="Canal ESPN 2 (Bolivia)" tvg-name="ESPN 2" tvg-logo="http://imgfz.com/i/fwVAjNd.png",ESPN 2
+#EXTINF:-1 tvg-id="Canal ESPN 2 (Bolivia).ar" tvg-name="ESPN 2" tvg-logo="http://imgfz.com/i/fwVAjNd.png",ESPN 2
 http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/173
 
-#EXTINF:-1 tvg-id="Canal ESPN 3 (Argentina)" tvg-name="ESPN 3" tvg-logo="http://imgfz.com/i/NQVX6rZ.png",ESPN 3
+#EXTINF:-1 tvg-id="Canal ESPN 3 (Argentina).ar" tvg-name="ESPN 3" tvg-logo="http://imgfz.com/i/NQVX6rZ.png",ESPN 3
 http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/174
 
 #EXTINF:-1 tvg-id="ESPN DEPORTES" tvg-name="ESPN DEPORTES" tvg-logo="http://imgfz.com/i/mjDds5l.png",ESPN DEPORTES
@@ -39,7 +39,7 @@ http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/75988
 #EXTINF:-1 tvg-id="D SPORT +" tvg-name="D SPORT +" tvg-logo="http://imgfz.com/i/CTkRd5h.png",D SPORT +
 http://android-iptv.com/DavidJutiapa/f7tTdTRdzL/21058
 
-#EXTINF:-1 tvg-id="TyC Sport" tvg-name="TyC Sport" tvg-logo="http://imgfz.com/i/zQOEGKq.jpeg",TyC Sport
+#EXTINF:-1 tvg-id="Canal.TyC.Sports.ar" tvg-name="TyC Sport" tvg-logo="http://imgfz.com/i/zQOEGKq.jpeg",TyC Sport
 http://31.43.191.125:8080/VIP017011729837125117/aed05ef3f6e9/4822
 
 #EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="TELEMUNDO" tvg-logo="http://imgfz.com/i/NfWETI6.jpeg",TELEMUNDO
