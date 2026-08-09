@@ -21,10 +21,10 @@ http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/173
 #EXTINF:-1 tvg-id="Espn3.ar" tvg-name="ESPN 3" tvg-logo="http://imgfz.com/i/NQVX6rZ.png",ESPN 3
 http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/174
 
-#EXTINF:-1 tvg-id="ESPN DEPORTES" tvg-name="ESPN DEPORTES" tvg-logo="http://imgfz.com/i/mjDds5l.png",ESPN DEPORTES
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-name="ESPN DEPORTES" tvg-logo="http://imgfz.com/i/mjDds5l.png",ESPN DEPORTES
 http://kstv.us:8080/Abel1961/4045997688/47105
 
-#EXTINF:-1 tvg-id="ESPN DEPORTES BK" tvg-name="ESPN DEPORTES" tvg-logo="http://imgfz.com/i/mjDds5l.png",ESPN DEPORTES BK
+#EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-name="ESPN DEPORTES" tvg-logo="http://imgfz.com/i/mjDds5l.png",ESPN DEPORTES BK
 http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/212
 
 #EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="http://imgfz.com/i/9VImknQ.jpeg",TUDN
@@ -42,7 +42,7 @@ http://android-iptv.com/DavidJutiapa/f7tTdTRdzL/21058
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sport" tvg-logo="http://imgfz.com/i/zQOEGKq.jpeg",TyC Sport
 http://31.43.191.125:8080/VIP017011729837125117/aed05ef3f6e9/4822
 
-#EXTINF:-1 tvg-id="Telemundo.ar" tvg-name="TELEMUNDO" tvg-logo="http://imgfz.com/i/NfWETI6.jpeg",TELEMUNDO
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="TELEMUNDO" tvg-logo="http://imgfz.com/i/NfWETI6.jpeg",TELEMUNDO
 http://theking365tv.me/wajkCVB6xE/8913153114/6043
 
 #EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1" tvg-logo="http://imgfz.com/i/rOj1ACN.png",SPORT TV 1
@@ -54,10 +54,10 @@ http://kstv.us:8080/Abel1961/4045997688/48497
 #EXTINF:-1 tvg-id="SPORTV 1 BR" tvg-name="SPORTV 1" tvg-logo="http://imgfz.com/i/9SpWDcQ.png",SPORTV 1
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/4902
 
-#EXTINF:-1 tvg-id="FS 1" tvg-name="FS 1" tvg-logo="http://imgfz.com/i/FQrnO9c.png",FS 1
+#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="FS 1" tvg-logo="http://imgfz.com/i/FQrnO9c.png",FS 1
 http://cord-cutter.net:8080/885522/225588/46792
 
-#EXTINF:-1 tvg-id="FS 2" tvg-name="FS 2" tvg-logo="https://i.ibb.co/hFRYCFFH/fs2.png",FS 2
+#EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-name="FS 2" tvg-logo="https://i.ibb.co/hFRYCFFH/fs2.png",FS 2
 http://cord-cutter.net:8080/885522/225588/1847
 
 #EXTINF:-1 tvg-id="BEIN SPORT 1" tvg-name="BEIN SPORT 1" tvg-logo="https://i.ibb.co/VWNsvmBB/bein-sports-1-logo-png-seeklogo-481583.png",BEIN SPORT 1
