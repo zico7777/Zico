@@ -1,6 +1,6 @@
 #EXTM3U 
 
-EXTINF:-1 tvg-id="M+ LaLiga 1.es" tvg-name="LA LIGA TV M+" tvg-logo="https://i.ibb.co/Q7d6hqjR/laligatv-por-movistar-plus-logo-png-seeklogo-490011.png",LA LIGA TV M+
+#EXTINF:-1 tvg-id="M+ LaLiga 1.es" tvg-name="LA LIGA TV M+" tvg-logo="https://i.ibb.co/Q7d6hqjR/laligatv-por-movistar-plus-logo-png-seeklogo-490011.png",LA LIGA TV M+
 http://theking365tv.me/wajkCVB6xE/8913153114/2082
 
 #EXTINF:-1 tvg-id="219100" tvg-name="PREMIER SPORT 1" tvg-logo="http://imgfz.com/i/a8J03zf.png",PREMIER SPORT 1
