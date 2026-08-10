@@ -22,9 +22,7 @@
 <channel id="Fox Sports 2.us"><display-name>Fox Sports 2.us</display-name></channel>
 <channel id="beIN Sports (Spanish).us"><display-name>beIN Sports (Spanish).us</display-name></channel>
 <channel id="Tu Deportes Network (TUDN) U.S..us"><display-name>Tu Deportes Network (TUDN) U.S..us</display-name></channel>
-<channel id="Telemundo Network (East).us"><display-name>Telemundo Network (East).us</display-name></channel>
-  
-  
+<channel id="Telemundo Network (East).us"><display-name>Telemundo Network (East).us</display-name></channel>    
 <programme start="20260809020000 +0000" stop="20260809060000 +0000" channel="M+ LaLiga 1.es"><title>M+ LaLiga 1</title><desc>Sin descripción</desc></programme>
 <programme start="20260809060000 +0000" stop="20260809100000 +0000" channel="M+ LaLiga 1.es"><title>M+ LaLiga 1</title><desc>Sin descripción</desc></programme>
 <programme start="20260809100000 +0000" stop="20260809140000 +0000" channel="M+ LaLiga 1.es"><title>M+ LaLiga 1</title><desc>Sin descripción</desc></programme>
