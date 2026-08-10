@@ -1,6 +1,6 @@
-#EXTM3U x-tvg-url=https://www.open-epg.com/files/argentina.xml
+#EXTM3U 
 
-#EXTINF:-1 tvg-id="LA LIGA TV M+" tvg-name="LA LIGA TV M+" tvg-logo="https://i.ibb.co/Q7d6hqjR/laligatv-por-movistar-plus-logo-png-seeklogo-490011.png",LA LIGA TV M+
+EXTINF:-1 tvg-id="M+ LaLiga 1.es" tvg-name="LA LIGA TV M+" tvg-logo="https://i.ibb.co/Q7d6hqjR/laligatv-por-movistar-plus-logo-png-seeklogo-490011.png",LA LIGA TV M+
 http://theking365tv.me/wajkCVB6xE/8913153114/2082
 
 #EXTINF:-1 tvg-id="219100" tvg-name="PREMIER SPORT 1" tvg-logo="http://imgfz.com/i/a8J03zf.png",PREMIER SPORT 1
@@ -45,13 +45,13 @@ http://31.43.191.125:8080/VIP017011729837125117/aed05ef3f6e9/4822
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="TELEMUNDO" tvg-logo="http://imgfz.com/i/NfWETI6.jpeg",TELEMUNDO
 http://theking365tv.me/wajkCVB6xE/8913153114/6043
 
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1" tvg-logo="http://imgfz.com/i/rOj1ACN.png",SPORT TV 1
+#EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-name="SPORT TV 1" tvg-logo="http://imgfz.com/i/rOj1ACN.png",SPORT TV 1
 http://cord-cutter.net:8080/885522/225588/266568
 
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="http://imgfz.com/i/j7A4QEl.png",SPORT TV 2
+#EXTINF:-1 tvg-id="SPORT TV2 HD.pt" tvg-name="SPORT TV 2" tvg-logo="http://imgfz.com/i/j7A4QEl.png",SPORT TV 2
 http://kstv.us:8080/Abel1961/4045997688/48497
 
-#EXTINF:-1 tvg-id="SPORTV 1 BR" tvg-name="SPORTV 1" tvg-logo="http://imgfz.com/i/9SpWDcQ.png",SPORTV 1
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SPORTV 1" tvg-logo="http://imgfz.com/i/9SpWDcQ.png",SPORTV 1
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/4902
 
 #EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="FS 1" tvg-logo="http://imgfz.com/i/FQrnO9c.png",FS 1
@@ -81,10 +81,10 @@ http://theking365tv.me/wajkCVB6xE/8913153114/35
 #EXTINF:-1 tvg-id="Sky Premiere League UK" tvg-name="Sky Premiere League UK" tvg-logo="http://imgfz.com/i/M0CwqE1.webp",Sky Premiere League UK
 http://android-iptv.com/DavidJutiapa/f7tTdTRdzL/23751
 
-#EXTINF:-1 tvg-id="TNT SPORT UK" tvg-name="TNT SPORT UK" tvg-logo="https://i.ibb.co/JjP7j4dS/TNT-Sports-Logo-Stacked-300x300.png",TNT SPORT UK
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT SPORT UK" tvg-logo="https://i.ibb.co/JjP7j4dS/TNT-Sports-Logo-Stacked-300x300.png",TNT SPORT UK
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/1687
 
-#EXTINF:-1 tvg-id="TNT SPORT 2 UK" tvg-name="TNT SPORT 2 UK" tvg-logo="https://i.ibb.co/JjP7j4dS/TNT-Sports-Logo-Stacked-300x300.png",TNT SPORT 2 UK
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT SPORT 2 UK" tvg-logo="https://i.ibb.co/JjP7j4dS/TNT-Sports-Logo-Stacked-300x300.png",TNT SPORT 2 UK
 http://31.43.191.125:8080/VIP0199169358094917/21693580949/1688
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="http://imgfz.com/i/u1bUfk4.png",TSN 1
