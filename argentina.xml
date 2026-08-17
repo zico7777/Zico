@@ -11,7 +11,7 @@
 <channel id="EspnPremium.ar"><display-name>Espn Premium.ar</display-name><icon src="https://images.open-epg.com/x964.png"/></channel>
 <channel id="SPORT TV1 HD.pt"><display-name>SPORT TV1 HD.pt</display-name></channel>
 <channel id="SPORT TV2 HD.pt"><display-name>SPORT TV2 HD.pt</display-name></channel>
-<channel id="SporTV.br"><display-name>SporTV.br</display-name></channel>
+<channel id="SPORTV.br"><display-name>SporTV.br</display-name></channel>
 <channel id="TNTSports1.uk"><display-name>TNT Sports 1.uk</display-name><icon src="https://images.open-epg.com/16296.png"/></channel>
 <channel id="TNTSports2.uk"><display-name>TNT Sports 2.uk</display-name><icon src="https://images.open-epg.com/16297.png"/></channel>
 <channel id="TyCSports.ar"><display-name>TyC Sports.ar</display-name><icon src="https://images.open-epg.com/16782422.png"/></channel>
