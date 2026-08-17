@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">  
 <channel id="M+ LaLiga 1.es"><display-name>M+ LaLiga 1.es</display-name></channel>
-<channel id="PremierSports1.uk"><display-name>Premier Sports 1.uk</display-name><icon src="https://images.open-epg.com/x920.png"/></channel>
+<channel id="PremierSports1.uk"><display-name>PremierSports1.uk</display-name><icon src="https://images.open-epg.com/x920.png"/></channel>
 <channel id="Espn.ar"><display-name>Espn.ar</display-name><icon src="https://images.open-epg.com/25689.png"/></channel>
 <channel id="Espn2.ar"><display-name>Espn 2.ar</display-name><icon src="https://images.open-epg.com/25683.png"/></channel>
 <channel id="Espn3.ar"><display-name>Espn 3.ar</display-name><icon src="https://images.open-epg.com/25684.png"/></channel>
