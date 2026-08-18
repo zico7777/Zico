@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">  
-<channel id="LALIGA.es"><display-name>LALIGA.es</display-name></channel>
+<channel id="M+ LALIGA.es"><display-name>M+ LALIGA.es</display-name></channel>
 <channel id="PremierSports1.uk"><display-name>Premier Sports 1.uk</display-name><icon src="https://images.open-epg.com/x920.png"/></channel>
 <channel id="DAZN LALIGA.es"><display-name>DAZN LALIGA.es</display-name></channel>
 <channel id="Espn.ar"><display-name>Espn.ar</display-name><icon src="https://images.open-epg.com/25689.png"/></channel>
