@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="M+ LALIGA.es" tvg-name="M+ LALIGA.es" tvg-logo="https://i.ibb.co/Q7d6hqjR/laligatv-por-movistar-plus-logo-png-seeklogo-490011.png",LA LIGA TV M+
+#EXTINF:-1 tvg-id="MovistarLaLigaTV.es" tvg-name="M+ La Liga TV" tvg-logo="https://i.ibb.co/Q7d6hqjR/laligatv-por-movistar-plus-logo-png-seeklogo-490011.png",LA LIGA TV M+
 http://lunar.pm:8080/phil/Thetimes22/138420
 
 #EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="PREMIER SPORT 1" tvg-logo="http://imgfz.com/i/a8J03zf.png",PREMIER SPORT 1
@@ -9,7 +9,7 @@ http://lunar.pm:8080/phil/Thetimes22/20975
 #EXTINF:-1 tvg-id="SKY SPORT LA LIGA" tvg-name="SKY SPORT LA LIGA" tvg-logo="http://imgfz.com/i/agdLjT4.png",SKY SPORT LA LIGA
 http://live.detodotvplay.com:8080/antonio2204/t8TvFb9OdN/369989
 
-#EXTINF:-1 tvg-id="DAZN LALIGA.es" tvg-name="DAZN LA LIGA" tvg-logo="http://imgfz.com/i/Y1ltIru.jpeg",DAZN LA LIGA
+#EXTINF:-1 tvg-id="DAZNLALIGA.es" tvg-name="DAZN LA LIGA" tvg-logo="http://imgfz.com/i/Y1ltIru.jpeg",DAZN LA LIGA
 http://lunar.pm:8080/phil/Thetimes22/138387
 
 #EXTINF:-1 tvg-id="Espn.ar" tvg-name="ESPN 1" tvg-logo="http://imgfz.com/i/ucXZUDx.png",ESPN 1
@@ -42,7 +42,7 @@ http://android-iptv.com/DavidJutiapa/f7tTdTRdzL/21058
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sport" tvg-logo="http://imgfz.com/i/zQOEGKq.jpeg",TyC Sport
 http://31.43.191.125:8080/VIP017011729837125117/aed05ef3f6e9/4822
 
-#EXTINF:-1 tvg-id="Telemundo Network (East).us" tvg-name="TELEMUNDO" tvg-logo="http://imgfz.com/i/NfWETI6.jpeg",TELEMUNDO
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="TELEMUNDO" tvg-logo="http://imgfz.com/i/NfWETI6.jpeg",TELEMUNDO
 http://theking365tv.me/wajkCVB6xE/8913153114/6043
 
 #EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-name="SPORT TV 1" tvg-logo="http://imgfz.com/i/rOj1ACN.png",SPORT TV 1
