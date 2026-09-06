@@ -64,10 +64,10 @@ http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/19466
 http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/439749
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/LDRL3cZN/hbo-2-768.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO 2
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/19579
+http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/159126
 
 #EXTINF:-1 tvg-id="HBO +" tvg-name="HBO +" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO +
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/198753
+http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/185172
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/Fkt1xsZ9/HBO-Family-LATAM-Teal.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO FAMILY
 http://livetv-plus.com:80/bernardo09/LXDUm8BeRVX/73200
@@ -80,6 +80,9 @@ http://livetv-plus.com:80/bernardo09/LXDUm8BeRVX/166117
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="CINECANAL" tvg-logo="https://i.ibb.co/8WZ4rPz/Cinecanal-HD-April-2010-1.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINECANAL
 http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/9494
+
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="STAR CHANNEL" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STAR CHANNEL
+http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/439744
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/2YWbz4K1/Cinemax-2011-Yellow.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINEMAX
 http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/242025
