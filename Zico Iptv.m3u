@@ -75,8 +75,8 @@ http://livetv-plus.com:80/bernardo09/LXDUm8BeRVX/73200
 #EXTINF:-1 tvg-id="Starz" tvg-name="STARZ" tvg-logo="https://i.ibb.co/LzCKR9tm/STARZ-2022.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STARZ
 http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/159130
 
-#EXTINF:-1 tvg-id="Starz Encore" tvg-name="STARZ ENCORE" tvg-logo="https://i.ibb.co/35CSCPdT/Starz-Encore-2022.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STARZ ENCORE
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRVX/166117
+#EXTINF:-1 tvg-id="DHE" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",DHE
+http://livetv-plus.com:80/bernardo09/LXDUm8BeRVX/225716
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="CINECANAL" tvg-logo="https://i.ibb.co/8WZ4rPz/Cinecanal-HD-April-2010-1.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINECANAL
 http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/9494
