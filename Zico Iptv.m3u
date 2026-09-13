@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/RkHJ4K8B/Animal-Planet-logo-PNG-14.png" group-title="Culturales" tvg-group="Culturales",ANIMAL PLANET
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/276193
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/581908
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/bRRTP5ZW/Discovery-Channel-Logo-2016-700x394.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY CHANNEL
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/186572
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/53457
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.ibb.co/Qvdy027f/Discovery-World-HD.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY WORLD
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/9516
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/53469
 
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/3y7CRQ8c/discovery-hd-theater-seeklogo.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY THEATER
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/439786
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/53465
 
 #EXTINF:-1 tvg-id="Diacovey h&h tvg-name=" tvg-logo="https://i.ibb.co/2YhSmrNx/Discovery-H-H-2026-stacked.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY H&H
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/273322
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/53459
 
-#EXTINF:-1 tvg-id="Discovery TLC" tvg-name="DISCOVERY TLC" tvg-logo="https://i.ibb.co/zTw3CRYg/TLC-2021.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY TLC
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/199201
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Culturales" tvg-group="Culturales",DISCOVERY SCIENCE
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/53464
 
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="NAT GEO" tvg-logo="https://i.ibb.co/7tw0XrS5/national-geographic-1024.png" group-title="Culturales" tvg-group="Culturales",NAT GEO
 http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/439788
