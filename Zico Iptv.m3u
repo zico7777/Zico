@@ -72,11 +72,11 @@ http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/581871
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/Fkt1xsZ9/HBO-Family-LATAM-Teal.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO FAMILY
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/581874
 
-#EXTINF:-1 tvg-id="Starz" tvg-name="STARZ" tvg-logo="https://i.ibb.co/LzCKR9tm/STARZ-2022.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STARZ
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/159130
+#EXTINF:-1 tvg-id="USA SERIES" tvg-name="USA SERIES" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STARZ
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/346686
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",DHE
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRVX/225716
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/400290
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="CINECANAL" tvg-logo="https://i.ibb.co/8WZ4rPz/Cinecanal-HD-April-2010-1.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINECANAL
 http://goldtv.lat:8080/bernardo09/jaimitorojas19791213/rojasjaime20231213/581942
@@ -103,13 +103,13 @@ http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/439804
 http://livetv-plus.com:80/AlejCord/BAGPX/184477
 
 #EXTINF:-1 tvg-id="Universal Premier" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://i.ibb.co/S4F6tDcj/universal-premiere-seeklogo.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",UNIVERSAL PREMIER
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/236380
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/111419
 
 #EXTINF:-1 tvg-id="Universal Comedy" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://i.ibb.co/FLHk8mXz/universal-comedy.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",UNIVERSAL COMEDY
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/185166
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/111417
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/pBfZ1jBR/universal-studios-pictures-4518.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STUDIO UNIVERSAL
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/241984
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/1268
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME" tvg-logo="https://i.ibb.co/ZpFShpjr/Lifetime-2020.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",LIFETIME
 http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/242002
@@ -124,13 +124,13 @@ http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/538093
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/1281
 
 #EXTINF:-1 tvg-id="Sony" tvg-name="SONY CHANNEL" tvg-logo="https://i.ibb.co/7JYwxpgZ/Sony-Channel-2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",SONY CHANNEL
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/469055
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/1261
 
 #EXTINF:-1 tvg-id="Warner" tvg-name="WARNER" tvg-logo="https://i.ibb.co/6cWZqQ8h/Warner-Bros-Pictures-2023-Print-color.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",WARNER
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/576555
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/1258
 
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/GQYN38Dx/TNT-Series-2025.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",TNT SERIES
-http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/581820
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/1247
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/nMTd6v93/AXN-HD-2015.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",AXN
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/1254
