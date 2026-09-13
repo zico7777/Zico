@@ -18,6 +18,12 @@ http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/53459
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Culturales" tvg-group="Culturales",DISCOVERY SCIENCE
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/53464
 
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="Culturales" tvg-group="Culturales",TLC
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/126558
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="Culturales" tvg-group="Culturales",HGTV
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/126561
+
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="NAT GEO" tvg-logo="https://i.ibb.co/7tw0XrS5/national-geographic-1024.png" group-title="Culturales" tvg-group="Culturales",NAT GEO
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/53491
 
