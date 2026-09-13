@@ -31,31 +31,31 @@ http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/186570
 http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/105685
 
 #EXTINF:-1 tvg-id="Telemundo Houston" tvg-name="TELEMUNDO HOUSTON" tvg-logo="https://i.ibb.co/8gqrJVGB/KTMD-2012.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",TELEMUNDO HOUSTON
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/435161
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/114360
 
 #EXTINF:-1 tvg-id="Univisión Houston" tvg-name="UNIVISIÓN HOUSTON" tvg-logo="https://i.ibb.co/1fhyg7hm/KXLN-Univision-45-Houston.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",UNIVISIÓN HOUSTON
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/184122
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/315861
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/9kKWYBY7/AE-Logo-500x281.png" group-title="Entretenimiento" tvg-group="Entretenimiento",A&E
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/186628
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/435979
 
 #EXTINF:-1 tvg-id="Film&Arts" tvg-name="FILM & ARTS" tvg-logo="https://i.ibb.co/MDZ40zQz/Film-Arts.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",FILM & ARTS
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/19535
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/317525
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://i.ibb.co/nMtn6gzv/E-1990.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",E!
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/9405
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/126151
 
 #EXTINF:-1 tvg-id="Antena 3 Internacional" tvg-name="ANTENA 3" tvg-logo="https://i.ibb.co/whNW4wdF/Antena-3-Internacional-2025.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",ANTENA 3
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/211202
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/316185
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/4ng6jMdF/Com-Cen-scribble.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",COMEDY CENTRAL
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/53049
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/400093
 
 #EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK" tvg-logo="https://i.ibb.co/M5K5qqmc/Food-Net-Logo.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",FOOD NETWORK
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/9554
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/581897
 
 #EXTINF:-1 tvg-id="El Gourmet" tvg-name="EL GOURMET" tvg-logo="https://i.ibb.co/gF9szFdc/Elgourmet-23.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",EL GOURMET
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/186629
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/581966
 
 #EXTINF:-1 tvg-id="Adult Swim" tvg-name="ADULT SWIM" tvg-logo="https://i.ibb.co/233Dm7Hs/Adult-Swim-2001.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",ADULT SWIM
 http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/622513
@@ -128,6 +128,12 @@ http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/1261
 
 #EXTINF:-1 tvg-id="Warner" tvg-name="WARNER" tvg-logo="https://i.ibb.co/6cWZqQ8h/Warner-Bros-Pictures-2023-Print-color.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",WARNER
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/1258
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",AMC
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/1284
+
+#EXTINF:-1 tvg-id="AMC SERIES" tvg-name="AMC SERIES" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",AMC SERIES
+http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/581907
 
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/GQYN38Dx/TNT-Series-2025.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",TNT SERIES
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/1247
