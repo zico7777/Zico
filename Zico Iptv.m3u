@@ -4,19 +4,19 @@
 http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11307.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/bRRTP5ZW/Discovery-Channel-Logo-2016-700x394.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY CHANNEL
-http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/53457
+http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11423.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.ibb.co/Qvdy027f/Discovery-World-HD.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY WORLD
-http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/53469
+http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11362.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/3y7CRQ8c/discovery-hd-theater-seeklogo.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY THEATER
-http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/53465
+http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11300.m3u8
 
 #EXTINF:-1 tvg-id="Diacovey h&h tvg-name=" tvg-logo="https://i.ibb.co/2YhSmrNx/Discovery-H-H-2026-stacked.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY H&H
-http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/53459
+http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11353.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Culturales" tvg-group="Culturales",DISCOVERY SCIENCE
-http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/53464
+http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11525.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="Culturales" tvg-group="Culturales",TLC
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/126558
@@ -61,7 +61,7 @@ http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/316185
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/400093
 
 #EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK" tvg-logo="https://i.ibb.co/M5K5qqmc/Food-Net-Logo.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",FOOD NETWORK
-http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/581897
+http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11360.m3u8
 
 #EXTINF:-1 tvg-id="El Gourmet" tvg-name="EL GOURMET" tvg-logo="https://i.ibb.co/gF9szFdc/Elgourmet-23.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",EL GOURMET
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/581966
@@ -85,7 +85,7 @@ http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/135
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/346686
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",DHE
-http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/400290
+http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11474.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="CINECANAL" tvg-logo="https://i.ibb.co/8WZ4rPz/Cinecanal-HD-April-2010-1.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINECANAL
 http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/59432
@@ -94,7 +94,10 @@ http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/59432
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/436007
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/2YWbz4K1/Cinemax-2011-Yellow.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINEMAX
-http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/581943
+http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11219.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax Action" tvg-name="CINEMAX ACTION" tvg-logo="https://i.ibb.co/2YWbz4K1/Cinemax-2011-Yellow.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINEMAX ACTION
+http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11221.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/hxn1HWgt/TNT-Latinoam-rica-2011.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",TNT
 http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/169
@@ -109,7 +112,7 @@ http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/581880
 http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/439804
 
 #EXTINF:-1 tvg-id="Universal Tv" tvg-name="UNIVERSAL TV" tvg-logo="https://i.ibb.co/rKn3yzw1/Universal-TV-logo.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",UNIVERSAL TV
-http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/581806
+http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11291.m3u8
 
 #EXTINF:-1 tvg-id="Universal Premier" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://i.ibb.co/S4F6tDcj/universal-premiere-seeklogo.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",UNIVERSAL PREMIER
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/111419
@@ -150,7 +153,7 @@ http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/170
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/nMTd6v93/AXN-HD-2015.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",AXN
 http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/108
 
-#EXTINF:-1 tvg-id="DARK" tvg-name="DARK" tvg-logo="https://i.ibb.co/SXzpc8s1/Dark-2016.jpg" group-title="Películas y Series" tvg-group="Películas y Series",DARK
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK" tvg-logo="https://i.ibb.co/SXzpc8s1/Dark-2016.jpg" group-title="Películas y Series" tvg-group="Peliculas y Series",DARK
 http://neorcqds.top:8080/3911776616436/61c74df17f8c/25930
 
 #EXTINF:-1 tvg-id="CNN Internacional" tvg-name="CNN INTERNACIONAL" tvg-logo="https://i.ibb.co/5WCtSrh3/CNN-2014.jpg" group-title="Noticias" tvg-group="Noticias",CNN INTERNACIONAL
