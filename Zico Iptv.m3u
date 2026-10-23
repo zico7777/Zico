@@ -94,7 +94,7 @@ http://tvq.lat:8080/live/rslamtv/SNA8mxMqqHLd/577850.m3u8
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/436007
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/2YWbz4K1/Cinemax-2011-Yellow.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINEMAX
-http://152.231.29.139:8000/play/a0bc/71692126.m3u8
+http://tvq.lat:8080/live/rslamtv/SNA8mxMqqHLd/577851.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax Action" tvg-name="CINEMAX ACTION" tvg-logo="https://i.ibb.co/2YWbz4K1/Cinemax-2011-Yellow.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINEMAX ACTION
 http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11221.m3u8
@@ -142,7 +142,7 @@ http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/1261
 http://19242095.getpremium.pro/live/XUW57BQR/Y3SHST/138021.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",AMC
-http://tvq.lat:8080/live/rslamtv/SNA8mxMqqHLd/577842.m3u8
+http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577842
 
 #EXTINF:-1 tvg-id="AMC SERIES" tvg-name="AMC SERIES" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",AMC SERIES
 http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/106
