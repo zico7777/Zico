@@ -94,13 +94,13 @@ http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577850
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/436007
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/2YWbz4K1/Cinemax-2011-Yellow.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINEMAX
-http://tvq.lat:8080/live/rslamtv/SNA8mxMqqHLd/577851.m3u8
+http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577851
 
 #EXTINF:-1 tvg-id="Cinemax Action" tvg-name="CINEMAX ACTION" tvg-logo="https://i.ibb.co/2YWbz4K1/Cinemax-2011-Yellow.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINEMAX ACTION
 http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11221.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/hxn1HWgt/TNT-Latinoam-rica-2011.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",TNT
-http://19242095.getpremium.pro/live/XUW57BQR/Y3SHST/138039.m3u8
+http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577917
 
 #EXTINF:-1 tvg-id="Golden" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/Xx5vw6Bx/Golden-Edge.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN
 http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577864
@@ -130,7 +130,7 @@ http://grace4k.com:80/live/Q8NAHTP490Q3KVA/nGJGtAF8Sv/30652.m3u8
 http://grace4k.com:80/live/Q8NAHTP490Q3KVA/nGJGtAF8Sv/140299.m3u8
 
 #EXTINF:-1 tvg-id="Multipremier" tvg-name="MULTIPREMIER" tvg-logo="https://i.ibb.co/Y7KXYcgr/Multipremier-logo-svg.webp" group-title="Peliculas y Series" tvg-group="Peliculas y Series",MULTIPREMIER
-http://livetv-plus.com:80/bernardo09/LXDUm8BeRV/453505
+http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577886
 
 #EXTINF:-1 tvg-id="Panico" tvg-name="PANICO" tvg-logo="https://i.ibb.co/M5ZLQp3Y/Paniconvv.webp" group-title="Peliculas y Series" tvg-group="Peliculas y Series",PANICO
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/538093
@@ -139,7 +139,7 @@ http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/538093
 http://19242095.getpremium.pro/live/XUW57BQR/Y3SHST/138031.m3u8
 
 #EXTINF:-1 tvg-id="Sony" tvg-name="SONY CHANNEL" tvg-logo="https://i.ibb.co/7JYwxpgZ/Sony-Channel-2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",SONY CHANNEL
-http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/1261
+http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577891
 
 #EXTINF:-1 tvg-id="Warner" tvg-name="WARNER" tvg-logo="https://i.ibb.co/6cWZqQ8h/Warner-Bros-Pictures-2023-Print-color.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",WARNER
 http://19242095.getpremium.pro/live/XUW57BQR/Y3SHST/138021.m3u8
