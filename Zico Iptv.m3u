@@ -70,16 +70,16 @@ http://190.61.101.11:7050/play/a09s/42697037.m3u8
 http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577841
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/VWVmLY7Z/hbo-768.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO
-http://19242095.getpremium.pro/live/XUW57BQR/Y3SHST/137963.m3u8
+http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577882
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/LDRL3cZN/hbo-2-768.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO 2
-http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/133
+http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577867
 
 #EXTINF:-1 tvg-id="HBO +" tvg-name="HBO +" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO +
-http://18688077.ab1100.xyz/live/N46W98Z7/1855698/137957.m3u8
+http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577873
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/Fkt1xsZ9/HBO-Family-LATAM-Teal.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO FAMILY
-http://18688077.ab1100.xyz/live/N46W98Z7/1855698/137959.m3u8
+http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577869
 
 #EXTINF:-1 tvg-id="USA SERIES" tvg-name="USA SERIES" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STARZ
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/346686
@@ -106,10 +106,10 @@ http://19242095.getpremium.pro/live/XUW57BQR/Y3SHST/138039.m3u8
 http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577864
 
 #EXTINF:-1 tvg-id="Golden +" tvg-name="GOLDEN +" tvg-logo="https://i.ibb.co/rRyY0kRq/Golden-Plus-LA-2020.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN +
-http://grace4k.com:80/live/Q8NAHTP490Q3KVA/nGJGtAF8Sv/30654.m3u8
+http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577865
 
 #EXTINF:-1 tvg-id="Golden Premier" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/DD1B56Lb/Golden-Premier.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN PREMIER
-http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/581880
+http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577866
 
 #EXTINF:-1 tvg-id="Golden Edge" tvg-name="GOLDEN EDGE" tvg-logo="https://i.ibb.co/Xx5vw6Bx/Golden-Edge.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN EDGE
 http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577863
@@ -151,7 +151,7 @@ http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577842
 http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/106
 
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/GQYN38Dx/TNT-Series-2025.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",TNT SERIES
-http://19242095.getpremium.pro/live/XUW57BQR/Y3SHST/138037.m3u8
+http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577921
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/nMTd6v93/AXN-HD-2015.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",AXN
 http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577844
