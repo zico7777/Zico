@@ -78,7 +78,7 @@ http://playtvch.lat:2082/live/56952540870faceztv/Casa4663/2643.m3u8
 #EXTINF:-1 tvg-id="HBO +" tvg-name="HBO +" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO +
 http://playtvch.lat:2082/live/56952540870faceztv/Casa4663/7012.m3u8
 
-EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO POP
+#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO POP
 http://playtvch.lat:2082/live/56952540870faceztv/Casa4663/30416.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/Fkt1xsZ9/HBO-Family-LATAM-Teal.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO FAMILY
