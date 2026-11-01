@@ -76,10 +76,13 @@ http://miotv.cc:8080/live/NOVA19L44/WsmyeRdctVMz/187176.m3u8
 http://playtvch.lat:2082/live/56952540870faceztv/Casa4663/2643.m3u8
 
 #EXTINF:-1 tvg-id="HBO +" tvg-name="HBO +" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO +
-http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577873
+http://playtvch.lat:2082/live/56952540870faceztv/Casa4663/7012.m3u8
+
+EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO POP
+http://playtvch.lat:2082/live/56952540870faceztv/Casa4663/30416.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/Fkt1xsZ9/HBO-Family-LATAM-Teal.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO FAMILY
-http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577869
+http://playtvch.lat:2082/live/56952540870faceztv/Casa4663/7013.m3u8
 
 #EXTINF:-1 tvg-id="USA SERIES" tvg-name="USA SERIES" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STARZ
 http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/346686
