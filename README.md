@@ -1,2 +1,0 @@
-# Zico
-Lista
