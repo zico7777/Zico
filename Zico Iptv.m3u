@@ -4,7 +4,7 @@
 http://mallorca.plus/live/GlobalMundialTV223/TMundialPlus202523/79446.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/bRRTP5ZW/Discovery-Channel-Logo-2016-700x394.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY CHANNEL
-http://grace4k.com:80/live/Q8NAHTP490Q3KVA/nGJGtAF8Sv/30606.m3u8
+http://mallorca.plus/live/GlobalMundialTV223/TMundialPlus202523/79453.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.ibb.co/Qvdy027f/Discovery-World-HD.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY WORLD
 http://mallorca.plus/live/GlobalMundialTV223/TMundialPlus202523/79467.m3u8
@@ -22,7 +22,7 @@ http://grace4k.com:80/live/Q8NAHTP490Q3KVA/nGJGtAF8Sv/30604.m3u8
 http://19242095.getpremium.pro/live/XUW57BQR/Y3SHST/156771.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="Culturales" tvg-group="Culturales",HGTV
-http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/633400
+http://mallorca.plus/live/GlobalMundialTV223/TMundialPlus202523/79474.m3u8
 
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="NAT GEO" tvg-logo="https://i.ibb.co/7tw0XrS5/national-geographic-1024.png" group-title="Culturales" tvg-group="Culturales",NAT GEO
 http://grace4k.com:80/live/Q8NAHTP490Q3KVA/nGJGtAF8Sv/140312.m3u8
@@ -52,16 +52,13 @@ http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577838
 http://200.115.120.1:8000/play/ca131/62462182.m3u8
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://i.ibb.co/nMtn6gzv/E-1990.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",E!
-http://dalive.site:8080/Omarprosop/1347339e05/269980
-
-#EXTINF:-1 tvg-id="Antena 3 Internacional" tvg-name="ANTENA 3" tvg-logo="https://i.ibb.co/whNW4wdF/Antena-3-Internacional-2025.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",ANTENA 3
-http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/316185
+http://mallorca.plus/live/GlobalMundialTV223/TMundialPlus202523/31960.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/4ng6jMdF/Com-Cen-scribble.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",COMEDY CENTRAL
-http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577854
+http://mallorca.plus/live/GlobalMundialTV223/TMundialPlus202523/79058.m3u8
 
 #EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK" tvg-logo="https://i.ibb.co/M5K5qqmc/Food-Net-Logo.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",FOOD NETWORK
-http://dalive.site:8080/Omarprosop/1347339e05/273870
+http://mallorca.plus/live/GlobalMundialTV223/TMundialPlus202523/79063.m3u8
 
 #EXTINF:-1 tvg-id="El Gourmet" tvg-name="EL GOURMET" tvg-logo="https://i.ibb.co/gF9szFdc/Elgourmet-23.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",EL GOURMET
 http://dalive.site:8080/Omarprosop/1347339e05/269970
