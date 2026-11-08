@@ -171,11 +171,18 @@ http://goldtv.lat:8080/jaimitorojas19791213/rojasjaime20231213/582082
 #EXTINF:-1 tvg-id="MovistarLaLigaTV.es" tvg-name="M+ La Liga TV" tvg-logo="https://i.ibb.co/Q7d6hqjR/laligatv-por-movistar-plus-logo-png-seeklogo-490011.png" group-title="Deportes" tvg-group="Deportes",LA LIGA TV M+
 http://zeetoit.com:8080/BjuygAZJZJZHJbsnzns/r8tEQuk8pBmonoW/179937
 
+#EXTINF:-1 tvg-id="MovistarLaLigaTV.es" tvg-name="M+ La Liga TV BK" tvg-logo="https://i.ibb.co/Q7d6hqjR/laligatv-por-movistar-plus-logo-png-seeklogo-490011.png" group-title="Deportes" tvg-group="Deportes",LA LIGA TV M+ BK
+http://mallorca.plus/live/GlobalMundialTV223/TMundialPlus202523/1328682.m3u8
+
 #EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="PREMIER SPORT 1" tvg-logo="http://imgfz.com/i/a8J03zf.png" group-title="Deportes" tvg-group="Deportes",PREMIER SPORT 1
 http://wkdmctv4u2.net/john/franklin/53942
 
 #EXTINF:-1 tvg-id="SKY SPORT LA LIGA" tvg-name="SKY SPORT LA LIGA" tvg-logo="http://imgfz.com/i/agdLjT4.png" group-title="Deportes" tvg-group="Deportes",SKY SPORT LA LIGA
-http://grace4k.com:80/Q8NAHTP490Q3KVA/nGJGtAF8Sv/1278973
+http://mallorca.plus/live/GlobalMundialTV223/TMundialPlus202523/592041.m3u8
+
+#EXTINF:-1 tvg-id="SKY SPORT LA LIGA BK" tvg-name="SKY SPORT LA LIGA BK" tvg-logo="http://imgfz.com/i/agdLjT4.png" group-title="Deportes" tvg-group="Deportes",SKY SPORT LA LIGA BK
+http://mallorca.plus/live/GlobalMundialTV223/TMundialPlus202523/772282.m3u8
+
 
 #EXTINF:-1 tvg-id="DAZNLALIGA.es" tvg-name="DAZN LA LIGA" tvg-logo="http://imgfz.com/i/Y1ltIru.jpeg" group-title="Deportes" tvg-group="Deportes",DAZN LA LIGA
 http://capitan.salami.dtwscesp1.top:8080/es8401756727989316/b6d1c2cb36a4/76307
@@ -199,19 +206,19 @@ http://grace4k.com:80/Q8NAHTP490Q3KVA/nGJGtAF8Sv/30735
 http://grace4k.com:80/live/Q8NAHTP490Q3KVA/nGJGtAF8Sv/200139.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Deportes.us" tvg-name="ESPN DEPORTES" tvg-logo="http://imgfz.com/i/mjDds5l.png" group-title="Deportes" tvg-group="Deportes",ESPN DEPORTES BK
-http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/23624
+http://wkdmctv4u2.net/john/franklin/286636
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="http://imgfz.com/i/9VImknQ.jpeg" group-title="Deportes" tvg-group="Deportes",TUDN
 http://grace4k.com:80/Q8NAHTP490Q3KVA/nGJGtAF8Sv/325600
 
 #EXTINF:-1 tvg-id="D SPORT 1" tvg-name="D SPORT 1" tvg-logo="http://imgfz.com/i/jeDZ08o.png" group-title="Deportes" tvg-group="Deportes",D SPORT 1
-http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/480
+http://mallorca.plus/live/GlobalMundialTV223/TMundialPlus202523/592036.m3u8
 
 #EXTINF:-1 tvg-id="D SPORT 2" tvg-name="D SPORT 2" tvg-logo="http://imgfz.com/i/jeDZ08o.png" group-title="Deportes" tvg-group="Deportes",D SPORT 2
-http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/473
+http://mallorca.plus/live/GlobalMundialTV223/TMundialPlus202523/592038.m3u8
 
 #EXTINF:-1 tvg-id="D SPORT +" tvg-name="D SPORT +" tvg-logo="http://imgfz.com/i/CTkRd5h.png" group-title="Deportes" tvg-group="Deportes",D SPORT +
-http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/469
+http://mallorca.plus/live/GlobalMundialTV223/TMundialPlus202523/592039.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sport" tvg-logo="http://imgfz.com/i/zQOEGKq.jpeg" group-title="Deportes" tvg-group="Deportes",TyC Sport
 http://tvmate.icu:8080/MSharp/9750514/328474
