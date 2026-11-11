@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Zico IPTV EPG test" source-info-name="EPG.PW" source-info-url="https://epg.pw/xmltv.html?lang=en">
+  <channel id="zico.hbo.us">
+    <display-name>HBO (USA)</display-name>
+  </channel>
+  <channel id="zico.discovery.us">
+    <display-name>Discovery Channel HD (USA)</display-name>
+  </channel>
+  <channel id="zico.espn1.ar">
+    <display-name>ESPN 1 (Argentina)</display-name>
+  </channel>
+  <channel id="zico.foxnews.us">
+    <display-name>Fox News Channel HD (USA)</display-name>
+  </channel>
+  <channel id="zico.skysportspl.uk">
+    <display-name>Sky Sports Premier League (UK)</display-name>
+  </channel>
+  <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="zico.discovery.us">
+    <title lang="en">Moonshiners</title>
+    <desc lang="en">Josh's head spins when Jerry reveals his wild plans for their joint moonshine operation. Mark and Digger enlist a Scotsman to help craft the first Hillbilly Scotch. Tim and Tickle's backwoods rivals threaten to call the law on their tariff-dodging deal.</desc>
+  </programme>
+  <programme start="20261111010000 +0000" stop="20261111020100 +0000" channel="zico.discovery.us">
+    <title lang="en">Moonshiners</title>
+    <desc lang="en">When their hillbilly scotch experiment flames out, Mark and Digger light a fire under their still hand, Kelly. Josh's lucrative 80-gallon moonshine order rides on Jerry's unproven vacuum still experiment. Mike devises a recipe to poach Jerry's buyer.</desc>
+  </programme>
+  <programme start="20261111020100 +0000" stop="20261111030200 +0000" channel="zico.discovery.us">
+    <title lang="en">Secret Life of a Vegas Casino</title>
+    <desc lang="en">The annual blackjack tournament lures more than big money to the Nugget; it becomes an opportunity to nab notorious thieves; while a VIP host faces a crowd-shy high roller, security hunts down a slot thief and sets a trap for a serial hotel room burglar.</desc>
+  </programme>
+  <programme start="20261111030200 +0000" stop="20261111040200 +0000" channel="zico.discovery.us">
+    <title lang="en">Secret Life of a Vegas Casino</title>
+    <desc lang="en">Four unique weddings in one day stretch the Golden Nugget's wedding team to their limit; a crack in the 200,000-gallon shark tank raises the alarm; stolen casino keys cause chaos; security breaks up a rowdy wedding party of seniors.</desc>
+  </programme>
+  <programme start="20261111040200 +0000" stop="20261111050000 +0000" channel="zico.discovery.us">
+    <title lang="en">Secret Life of a Vegas Casino</title>
+    <desc lang="en">Reports of loud bangs and bullet holes on the eighth floor spark a tense night before the cause of the chaos is discovered one floor above; a VIP host loses her most valuable client and puts all her hopes of making her monthly quota on a walk-in whale.</desc>
+  </programme>
+  <programme start="20261111050000 +0000" stop="20261111060100 +0000" channel="zico.discovery.us">
+    <title lang="en">Moonshiners</title>
+    <desc lang="en">When their hillbilly scotch experiment flames out, Mark and Digger light a fire under their still hand, Kelly. Josh's lucrative 80-gallon moonshine order rides on Jerry's unproven vacuum still experiment. Mike devises a recipe to poach Jerry's buyer.</desc>
+  </programme>
+  <programme start="20261111060100 +0000" stop="20261111070200 +0000" channel="zico.discovery.us">
+    <title lang="en">Secret Life of a Vegas Casino</title>
+    <desc lang="en">The annual blackjack tournament lures more than big money to the Nugget; it becomes an opportunity to nab notorious thieves; while a VIP host faces a crowd-shy high roller, security hunts down a slot thief and sets a trap for a serial hotel room burglar.</desc>
+  </programme>
+  <programme start="20261111070200 +0000" stop="20261111080200 +0000" channel="zico.discovery.us">
+    <title lang="en">Secret Life of a Vegas Casino</title>
+    <desc lang="en">Four unique weddings in one day stretch the Golden Nugget's wedding team to their limit; a crack in the 200,000-gallon shark tank raises the alarm; stolen casino keys cause chaos; security breaks up a rowdy wedding party of seniors.</desc>
+  </programme>
+  <programme start="20261111080200 +0000" stop="20261111090000 +0000" channel="zico.discovery.us">
+    <title lang="en">Secret Life of a Vegas Casino</title>
+    <desc lang="en">Reports of loud bangs and bullet holes on the eighth floor spark a tense night before the cause of the chaos is discovered one floor above; a VIP host loses her most valuable client and puts all her hopes of making her monthly quota on a walk-in whale.</desc>
+  </programme>
+  <programme start="20261111090000 +0000" stop="20261111100000 +0000" channel="zico.discovery.us">
+    <title lang="en">Mysteries of the Deep</title>
+    <desc lang="en">A sunken Nazi submarine packed with toxic cargo is a ticking time bomb that could put the whole world at risk; Jeremy Wade reveals the sub's top-secret mission it was on when it sank and how experts keep it from sparking a global catastrophe.</desc>
+  </programme>
+  <programme start="20261111100000 +0000" stop="20261111110000 +0000" channel="zico.discovery.us">
+    <title lang="en">Mysteries of the Deep</title>
+    <desc lang="en">Jeremy Wade investigates the whereabouts of a lost relic of the Space Age that tarnished the reputation of NASA's first astronauts; cutting-edge technology turns up brand-new evidence that might finally vindicate this American hero.</desc>
+  </programme>
+  <programme start="20261111110000 +0000" stop="20261111120000 +0000" channel="zico.discovery.us">
+    <title lang="en">Tales From the Explorers Club</title>
+    <desc lang="en">Josh Gates tackles history's most chilling polar adventures, including Robert Peary and Matthew Henson's brave push to the North Pole as well as Ernest Shackleton's epic survival in Antarctic ice.</desc>
+  </programme>
+  <programme start="20261111120000 +0000" stop="20261111130000 +0000" channel="zico.discovery.us">
+    <title lang="en">Tales From the Explorers Club</title>
+    <desc lang="en">Josh Gates recounts the death-defying exploits of Edmund Hillary and Tenzing Norgay, who summit Mount Everest; two submariners plunge seven miles under the Pacific; a pilot skydives from the edge of space.</desc>
+  </programme>
+  <programme start="20261111130000 +0000" stop="20261111140000 +0000" channel="zico.discovery.us">
+    <title lang="en">Tales From the Explorers Club</title>
+    <desc lang="en">Josh Gates explores daring journeys, including the Kon-Tiki balsa raft crossing the Pacific, NASA's lunar rover making tracks on the moon and an airplane flying around the world without the use of fuel.</desc>
+  </programme>
+  <programme start="20261111140000 +0000" stop="20261111150000 +0000" channel="zico.discovery.us">
+    <title lang="en">Tales From the Explorers Club</title>
+    <desc lang="en">Josh Gates explores how club members' swashbuckling exploits inspired Hollywood; a bullwhip-cracking archaeologist may be the real-life Indiana Jones; a Nazi mountaineer's life-changing Seven Years in Tibet became a Brad Pitt star turn.</desc>
+  </programme>
+  <programme start="20261111150000 +0000" stop="20261111160000 +0000" channel="zico.discovery.us">
+    <title lang="en">Tales From the Explorers Club</title>
+    <desc lang="en">Josh Gates boldly explores members' most heart-pounding journeys into space; Apollo 13 astronauts fight to bring their crippled spacecraft 238,000 miles back to Earth and futuristic SpaceShipOne could give others a chance to travel to space.</desc>
+  </programme>
+  <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="zico.discovery.us">
+    <title lang="en">Expedition Files</title>
+    <desc lang="en">Josh Gates investigates conspiracy theories, including new discoveries suggesting the Titanic was sunk by more than just an iceberg, the true story behind the death of Harry Houdini and lost Civil War gold that spawned a lawsuit against the FBI.</desc>
+  </programme>
+  <programme start="20261111170000 +0000" stop="20261111180000 +0000" channel="zico.discovery.us">
+    <title lang="en">Expedition Files</title>
+    <desc lang="en">Josh Gates looks closely at history's most intriguing hoaxes and unexplained events, including the Amityville Horror, the strange fate of a military submarine crew, and a phenomenon in which people's body fat causes them to burn alive.</desc>
+  </programme>
+  <programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="zico.discovery.us">
+    <title lang="en">Expedition Files</title>
+    <desc lang="en">Josh Gates investigates sensationalistic stories, seeking the truth behind the unexplained: rock legend Jim Morrison's death, a bizarre preserved mermaid found in a Japanese temple, and claims of alien abduction from a U.S. Airman.</desc>
+  </programme>
+  <programme start="20261111190000 +0000" stop="20261111200000 +0000" channel="zico.discovery.us">
+    <title lang="en">Expedition Files</title>
+    <desc lang="en">From a secret World War II unit that deceived Nazis, to the alleged crimes of the Knights Templar and a royal death tied to a scandal, Josh Gates explores mysteries built on coverups.</desc>
+  </programme>
+  <programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="zico.discovery.us">
+    <title lang="en">Expedition Files</title>
+    <desc lang="en">Josh Gates explores American history, including a theory that John Wilkes Booth escaped justice; myth-busting truths behind Paul Revere's midnight ride and a U.S. Navy sub that vanished in the Cold War.</desc>
+  </programme>
+  <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="zico.discovery.us">
+    <title lang="en">Expedition Unknown</title>
+    <desc lang="en">Josh investigates America's daring response to Pearl Harbor, using new intelligence to find 40 planes and 200 American heroes lost in Operation Hailstone.</desc>
+  </programme>
+  <programme start="20261111220000 +0000" stop="20261111230000 +0000" channel="zico.discovery.us">
+    <title lang="en">Expedition Unknown</title>
+    <desc lang="en">Josh dives deep into the Navy's Pearl Harbor counterattack, uncovering an eyewitness who shares details of American soldiers' executions; new intelligence leads to the discovery of a plane from the battle.</desc>
+  </programme>
+  <programme start="20261111230000 +0000" stop="20261112000000 +0000" channel="zico.discovery.us">
+    <title lang="en">Expedition Unknown</title>
+    <desc lang="en">A three-man crew of Navy pilots training for World War II crashed into the Pacific Ocean; Josh Gates teams up with Project Recover to find the plane and bring closure to the three souls.</desc>
+  </programme>
+  <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: The Ingraham Angle</title>
+    <desc lang="en">Laura Ingraham aims to cut through the Washington chatter to speak directly with unexpected voices and the people impacted by the news of the day.</desc>
+  </programme>
+  <programme start="20261111010000 +0000" stop="20261111020000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: Jesse Watters Primetime</title>
+    <desc lang="en">Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.</desc>
+  </programme>
+  <programme start="20261111020000 +0000" stop="20261111030000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: Hannity</title>
+    <desc lang="en">Sean Hannity showcases his candid, provocative style and conservative commentary on politics and the American agenda.</desc>
+  </programme>
+  <programme start="20261111030000 +0000" stop="20261111040000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Gutfeld!</title>
+    <desc lang="en">Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.</desc>
+  </programme>
+  <programme start="20261111040000 +0000" stop="20261111050000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: Fox News at Night</title>
+    <desc lang="en">Hard news and analysis of compelling stories from Washington, D.C., and across the country.</desc>
+  </programme>
+  <programme start="20261111050000 +0000" stop="20261111060000 +0000" channel="zico.foxnews.us">
+    <title lang="en">The Five</title>
+    <desc lang="en">Dana Perino, Greg Gutfeld, Jesse Watters and rotating co-hosts discuss and debate the hot issues across the spectrum from politics to pop culture.</desc>
+  </programme>
+  <programme start="20261111060000 +0000" stop="20261111070000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: Jesse Watters Primetime</title>
+    <desc lang="en">Jesse Watters speaks with newsmakers from across the U.S. to present news with a clear and direct approach.</desc>
+  </programme>
+  <programme start="20261111070000 +0000" stop="20261111080000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: Hannity</title>
+    <desc lang="en">Sean Hannity showcases his candid, provocative style and conservative commentary on politics and the American agenda.</desc>
+  </programme>
+  <programme start="20261111080000 +0000" stop="20261111090000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Gutfeld!</title>
+    <desc lang="en">Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture and features his takes on the day's headlines.</desc>
+  </programme>
+  <programme start="20261111090000 +0000" stop="20261111100000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Fox News at Night</title>
+    <desc lang="en">Hard news and analysis of compelling stories from Washington, D.C., and across the country.</desc>
+  </programme>
+  <programme start="20261111100000 +0000" stop="20261111110000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: FOX &amp; Friends First</title>
+    <desc lang="en">Hosts Todd Piro and Carley Shimkus present headlines viewers may have missed overnight and preview upcoming news events.</desc>
+  </programme>
+  <programme start="20261111110000 +0000" stop="20261111140000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: FOX and Friends</title>
+    <desc lang="en">FOX's signature morning show highlights news, weather, sports and entertainment.</desc>
+  </programme>
+  <programme start="20261111140000 +0000" stop="20261111160000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: America's Newsroom</title>
+    <desc lang="en">Bill Hemmer and Dana Perino present hard news and interviews with key newsmakers.</desc>
+  </programme>
+  <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: The Faulkner Focus</title>
+    <desc lang="en">Harris Faulkner provides news analysis and interviews with top newsmakers.</desc>
+  </programme>
+  <programme start="20261111170000 +0000" stop="20261111180000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: Outnumbered</title>
+    <desc lang="en">Four female panelists and one male colleague share perspectives on the day's top news stories.</desc>
+  </programme>
+  <programme start="20261111180000 +0000" stop="20261111200000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: America Reports</title>
+    <desc lang="en">A look at the news and headlines with Sandra Smith and John Roberts.</desc>
+  </programme>
+  <programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: The Story With Martha MacCallum</title>
+    <desc lang="en">Martha MacCallum presents interviews and stories about the people at the center of history-shaping events.</desc>
+  </programme>
+  <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: The Will Cain Show</title>
+    <desc lang="en">Will Cain shares his perspective through conversations with newsmakers across politics, culture and sports.</desc>
+  </programme>
+  <programme start="20261111220000 +0000" stop="20261111230000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: The Five</title>
+    <desc lang="en">Dana Perino, Greg Gutfeld, Jesse Watters and rotating co-hosts discuss and debate the hot issues.</desc>
+  </programme>
+  <programme start="20261111230000 +0000" stop="20261112000000 +0000" channel="zico.foxnews.us">
+    <title lang="en">Live: Special Report With Bret Baier</title>
+    <desc lang="en">Former Fox News chief White House correspondent Bret Baier examines political stories from Washington, D.C.</desc>
+  </programme>
+</tv>
