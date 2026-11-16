@@ -10,16 +10,19 @@ http://playtvch.lat:2082/Frankyvarela/91682929262/2455
 http://redworld.pro:8880/marcos6@72639/81266785849/318613
 
 #EXTINF:-1 tvg-id="DiscoveryTheater.ar" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/3y7CRQ8c/discovery-hd-theater-seeklogo.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY THEATER
-http://grace4k.com:80/live/Q8NAHTP490Q3KVA/nGJGtAF8Sv/69090.m3u8
+http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769680.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="DISCOVERY H&H" tvg-logo="https://i.ibb.co/2YhSmrNx/Discovery-H-H-2026-stacked.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY H&H
-http://redworld.pro:8880/marcos6@72639/81266785849/318605
+http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769688.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Culturales" tvg-group="Culturales",DISCOVERY SCIENCE
 http://redworld.pro:8880/gwvgcmuhpx/E5bACHxTEvZN/318608
 
 #EXTINF:-1 tvg-id="TLC.ar" tvg-name="TLC" tvg-logo="" group-title="Culturales" tvg-group="Culturales",TLC
 http://redworld.pro:8880/marcos6@72639/81266785849/318629
+
+#EXTINF:-1 tvg-id="DiscoveryID.mx" tvg-name="DISCOVERY ID" tvg-logo="" group-title="Culturales" tvg-group="Culturales",DISCOVERY ID
+http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769697.m3u8
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="Culturales" tvg-group="Culturales",HGTV
 http://redworld.pro:8880/gwvgcmuhpx/E5bACHxTEvZN/318631
