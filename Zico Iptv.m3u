@@ -150,6 +150,9 @@ http://fivetv.org:25461/play/M90vjxdRJ5mdJnn5rByKqj597XNUAp9_lSUDcm2yLCEO_M3wUuB
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",FX
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769434.m3u8
 
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",FXX
+http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/1036108.m3u8
+
 #EXTINF:-1 tvg-id="AMC SERIES" tvg-name="AMC SERIES" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",AMC SERIES
 http://myultratv.com:8080/56988965887tv/TurPcTnKeRaa/106
 
