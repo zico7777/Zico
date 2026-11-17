@@ -48,7 +48,7 @@ http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/1035972.m3u8
 #EXTINF:-1 tvg-id="Univisión Houston" tvg-name="UNIVISIÓN HOUSTON" tvg-logo="https://i.ibb.co/1fhyg7hm/KXLN-Univision-45-Houston.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",UNIVISIÓN HOUSTON
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/1035881.m3u8
 
-#EXTINF:-1 tvg-id="Canal.A&amp;E.(Costa.Rica).c" tvg-name="A&E" tvg-logo="https://i.ibb.co/9kKWYBY7/AE-Logo-500x281.png" group-title="Entretenimiento" tvg-group="Entretenimiento",A&E
+#EXTINF:-1 tvg-id="Canal.A&amp;E.(Costa.Rica).cr" tvg-name="A&E" tvg-logo="https://i.ibb.co/9kKWYBY7/AE-Logo-500x281.png" group-title="Entretenimiento" tvg-group="Entretenimiento",A&E
 http://redworld.pro:8880/marcos6@72639/81266785849/414453
 
 #EXTINF:-1 tvg-id="Film&Arts" tvg-name="FILM & ARTS" tvg-logo="https://i.ibb.co/MDZ40zQz/Film-Arts.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",FILM & ARTS
