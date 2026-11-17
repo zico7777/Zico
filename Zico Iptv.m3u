@@ -9,13 +9,13 @@ http://playtvch.lat:2082/Frankyvarela/91682929262/2455
 #EXTINF:-1 tvg-id="DiscoveryWorld.ar" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.ibb.co/Qvdy027f/Discovery-World-HD.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY WORLD
 http://redworld.pro:8880/marcos6@72639/81266785849/318613
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).cr" tvg-name="DISCOVERY THEATER" tvg-logo="" group-title="Culturales" tvg-group="Culturales",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).cr" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/zv29PmY/theater-discovery-hd-seeklogo.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY THEATER
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769680.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="DISCOVERY H&H" tvg-logo="https://i.ibb.co/2YhSmrNx/Discovery-H-H-2026-stacked.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY H&H
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769688.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Science.(Latinoamérica).cr" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="Canal.Discovery.Science.(Latinoamérica).cr" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/Q7GrSqHB/discovery-science-seeklogo.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY SCIENCE
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769240.m3u8
 
 #EXTINF:-1 tvg-id="Canal.TLC.(Costa.Rica).cr" tvg-name="TLC" tvg-logo="" group-title="Culturales" tvg-group="Culturales",TLC
