@@ -18,7 +18,7 @@ http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769688.m3u8
 #EXTINF:-1 tvg-id="Canal.Discovery.Science.(Latinoamérica).cr" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/Q7GrSqHB/discovery-science-seeklogo.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY SCIENCE
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769240.m3u8
 
-#EXTINF:-1 tvg-id="Canal.TLC.(Costa.Rica).cr" tvg-name="TLC" tvg-logo="" group-title="Culturales" tvg-group="Culturales",TLC
+#EXTINF:-1 tvg-id="Canal.TLC.(Costa.Rica).cr" tvg-name="TLC" tvg-logo="https://i.ibb.co/hRNf1Qj9/tlc-seeklogo.png" group-title="Culturales" tvg-group="Culturales",TLC
 http://redworld.pro:8880/marcos6@72639/81266785849/318629
 
 #EXTINF:-1 tvg-id="DiscoveryID.mx" tvg-name="DISCOVERY ID" tvg-logo="" group-title="Culturales" tvg-group="Culturales",DISCOVERY ID
