@@ -10,10 +10,10 @@ http://playtvch.lat:2082/Frankyvarela/91682929262/2455
 http://redworld.pro:8880/marcos6@72639/81266785849/318613
 
 #EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).cr" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/zv29PmY/theater-discovery-hd-seeklogo.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY THEATER
-http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769680.m3u8
+http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769111.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="DISCOVERY H&H" tvg-logo="https://i.ibb.co/2YhSmrNx/Discovery-H-H-2026-stacked.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY H&H
-http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769688.m3u8
+http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769680.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Discovery.Science.(Latinoamérica).cr" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/Q7GrSqHB/discovery-science-seeklogo.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY SCIENCE
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769240.m3u8
@@ -39,7 +39,7 @@ http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769794.m3u8
 #EXTINF:-1 tvg-id="Canal.History.(Costa.Rica).cr" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.ibb.co/fYvphYRW/History-2021.webp" group-title="Culturales" tvg-group="Culturales",HISTORY CHANNEL
 http://redworld.pro:8880/gwvgcmuhpx/E5bACHxTEvZN/318617
 
-#EXTINF:-1 tvg-id="History 2" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/pvwr6D6C/H2more2history.webp" group-title="Culturales" tvg-group="Culturales",HISTORY 2
+#EXTINF:-1 tvg-id="Canal.History.2.(Costa.Rica).cr" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/pvwr6D6C/H2more2history.webp" group-title="Culturales" tvg-group="Culturales",HISTORY 2
 http://redworld.pro:8880/marcos6@72639/81266785849/318619
 
 #EXTINF:-1 tvg-id="Telemundo Houston" tvg-name="TELEMUNDO HOUSTON" tvg-logo="https://i.ibb.co/8gqrJVGB/KTMD-2012.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",TELEMUNDO HOUSTON
