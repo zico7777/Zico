@@ -90,13 +90,13 @@ http://playtvch.lat:2082/Frankyvarela/91682929262/30628
 #EXTINF:-1 tvg-id="DHE" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",DHE
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769392.m3u8
 
-#EXTINF:-1 tvg-id="Cinecanal" tvg-name="CINECANAL" tvg-logo="https://i.ibb.co/8WZ4rPz/Cinecanal-HD-April-2010-1.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINECANAL
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL" tvg-logo="https://i.ibb.co/8WZ4rPz/Cinecanal-HD-April-2010-1.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINECANAL
 http://redworld.pro:8880/marcos6@72639/81266785849/414479
 
-#EXTINF:-1 tvg-id="Star Channel" tvg-name="STAR CHANNEL" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STAR CHANNEL
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="STAR CHANNEL" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STAR CHANNEL
 http://redworld.pro:8880/marcos6@72639/81266785849/414459
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/2YWbz4K1/Cinemax-2011-Yellow.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/2YWbz4K1/Cinemax-2011-Yellow.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINEMAX
 http://redworld.pro:8880/marcos6@72639/81266785849/414457
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/hxn1HWgt/TNT-Latinoam-rica-2011.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",TNT
