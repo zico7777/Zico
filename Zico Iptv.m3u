@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/RkHJ4K8B/Animal-Planet-logo-PNG-14.png" group-title="Culturales" tvg-group="Culturales",ANIMAL PLANET
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Costa.Rica).cr" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/RkHJ4K8B/Animal-Planet-logo-PNG-14.png" group-title="Culturales" tvg-group="Culturales",ANIMAL PLANET
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769678.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.ar" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/bRRTP5ZW/Discovery-Channel-Logo-2016-700x394.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Costa.Rica).cr" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/bRRTP5ZW/Discovery-Channel-Logo-2016-700x394.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY CHANNEL
 http://playtvch.lat:2082/Frankyvarela/91682929262/2455
 
 #EXTINF:-1 tvg-id="DiscoveryWorld.ar" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.ibb.co/Qvdy027f/Discovery-World-HD.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY WORLD
 http://redworld.pro:8880/marcos6@72639/81266785849/318613
 
-#EXTINF:-1 tvg-id="DiscoveryTheater.ar" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/3y7CRQ8c/discovery-hd-theater-seeklogo.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY THEATER
+#EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).cr" tvg-name="DISCOVERY THEATER" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY THEATER
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769680.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="DISCOVERY H&H" tvg-logo="https://i.ibb.co/2YhSmrNx/Discovery-H-H-2026-stacked.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY H&H
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769688.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Culturales" tvg-group="Culturales",DISCOVERY SCIENCE
-http://redworld.pro:8880/gwvgcmuhpx/E5bACHxTEvZN/318608
+#EXTINF:-1 tvg-id="Canal.Discovery.Science.(Latinoamérica).cr" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Culturales" tvg-group="Culturales",DISCOVERY SCIENCE
+http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769240.m3u8
 
-#EXTINF:-1 tvg-id="TLC.ar" tvg-name="TLC" tvg-logo="" group-title="Culturales" tvg-group="Culturales",TLC
+#EXTINF:-1 tvg-id="Canal.TLC.(Costa.Rica).cr" tvg-name="TLC" tvg-logo="" group-title="Culturales" tvg-group="Culturales",TLC
 http://redworld.pro:8880/marcos6@72639/81266785849/318629
 
 #EXTINF:-1 tvg-id="DiscoveryID.mx" tvg-name="DISCOVERY ID" tvg-logo="" group-title="Culturales" tvg-group="Culturales",DISCOVERY ID
@@ -27,7 +27,7 @@ http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769697.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="Culturales" tvg-group="Culturales",HGTV
 http://redworld.pro:8880/gwvgcmuhpx/E5bACHxTEvZN/318631
 
-#EXTINF:-1 tvg-id="Nat Geo" tvg-name="NAT GEO" tvg-logo="https://i.ibb.co/7tw0XrS5/national-geographic-1024.png" group-title="Culturales" tvg-group="Culturales",NAT GEO
+#EXTINF:-1 tvg-id="Canal.National.Geographic.(Costa.Rica).cr" tvg-name="NAT GEO" tvg-logo="https://i.ibb.co/7tw0XrS5/national-geographic-1024.png" group-title="Culturales" tvg-group="Culturales",NAT GEO
 http://redworld.pro:8880/marcos6@72639/81266785849/318620
 
 #EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/My4tQXPX/Nat-Geo-Wild.jpg" group-title="Culturales" tvg-group="Culturales",NAT GEO WILD
@@ -36,7 +36,7 @@ http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/1036027.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="LOVE NATURE" tvg-logo="" group-title="Culturales" tvg-group="Culturales",LOVE NATURE
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769794.m3u8
 
-#EXTINF:-1 tvg-id="History" tvg-name="HISTORY" tvg-logo="https://i.ibb.co/fYvphYRW/History-2021.webp" group-title="Culturales" tvg-group="Culturales",HISTORY
+#EXTINF:-1 tvg-id="Canal.History.(Costa.Rica).cr" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.ibb.co/fYvphYRW/History-2021.webp" group-title="Culturales" tvg-group="Culturales",HISTORY CHANNEL
 http://redworld.pro:8880/gwvgcmuhpx/E5bACHxTEvZN/318617
 
 #EXTINF:-1 tvg-id="History 2" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/pvwr6D6C/H2more2history.webp" group-title="Culturales" tvg-group="Culturales",HISTORY 2
