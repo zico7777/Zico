@@ -6,7 +6,7 @@ http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769101.m3u8
 #EXTINF:-1 tvg-id="Canal.Discovery.Channel.(Costa.Rica).cr" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/bRRTP5ZW/Discovery-Channel-Logo-2016-700x394.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY CHANNEL
 http://playtvch.lat:2082/Frankyvarela/91682929262/2455
 
-#EXTINF:-1 tvg-id="DiscoveryWorld.ar" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.ibb.co/Qvdy027f/Discovery-World-HD.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="Canal.Discovery.World.Latinoamérica.cr" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.ibb.co/Qvdy027f/Discovery-World-HD.jpg" group-title="Culturales" tvg-group="Culturales",DISCOVERY WORLD
 http://redworld.pro:8880/marcos6@72639/81266785849/318613
 
 #EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).cr" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/zv29PmY/theater-discovery-hd-seeklogo.png" group-title="Culturales" tvg-group="Culturales",DISCOVERY THEATER
@@ -54,7 +54,7 @@ http://redworld.pro:8880/marcos6@72639/81266785849/414453
 #EXTINF:-1 tvg-id="Film&Arts" tvg-name="FILM & ARTS" tvg-logo="https://i.ibb.co/MDZ40zQz/Film-Arts.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",FILM & ARTS
 http://latinostream.xyz:80/play/live/USm9Dmft32/AwfRDr5VeB/1036276.m3u8
 
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://i.ibb.co/nMtn6gzv/E-1990.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",E!
+#EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.(Costa.Rica).cr" tvg-name="E!" tvg-logo="https://i.ibb.co/nMtn6gzv/E-1990.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",E!
 http://redworld.pro:8880/gwvgcmuhpx/E5bACHxTEvZN/318626
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/4ng6jMdF/Com-Cen-scribble.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",COMEDY CENTRAL
@@ -63,46 +63,43 @@ http://playtvch.lat:2082/Frankyvarela/91682929262/2682
 #EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK" tvg-logo="https://i.ibb.co/M5K5qqmc/Food-Net-Logo.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",FOOD NETWORK
 http://playtvch.lat:2082/Frankyvarela/91682929262/6348
 
-#EXTINF:-1 tvg-id="El Gourmet" tvg-name="EL GOURMET" tvg-logo="https://i.ibb.co/gF9szFdc/Elgourmet-23.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",EL GOURMET
+#EXTINF:-1 tvg-id="Canal.Elgourmet.(Costa.Rica).cr" tvg-name="EL GOURMET" tvg-logo="https://i.ibb.co/gF9szFdc/Elgourmet-23.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",EL GOURMET
 http://playtvch.lat:2082/Frankyvarela/91682929262/2693
-
-#EXTINF:-1 tvg-id="Adult Swim" tvg-name="ADULT SWIM" tvg-logo="https://i.ibb.co/233Dm7Hs/Adult-Swim-2001.jpg" group-title="Entretenimiento" tvg-group="Entretenimiento",ADULT SWIM
-http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577841
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/VWVmLY7Z/hbo-768.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO
 http://fivetv.org:25461/play/M90vjxdRJ5mdJnn5rByKqj597XNUAp9_lSUDcm2yLCH_o_4agM4fBpqdYGyuu7S6/ts
 
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/LDRL3cZN/hbo-2-768.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO 2
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.cr" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/LDRL3cZN/hbo-2-768.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO 2
 http://playtvch.lat:2082/live/56952540870faceztv/Casa4663/2643.m3u8
 
-#EXTINF:-1 tvg-id="HBO +" tvg-name="HBO +" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO +
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.cr" tvg-name="HBO +" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO +
 http://latinostream.xyz:80/live/live/USm9Dmft32/AwfRDr5VeB/769439.m3u8
 
-#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO POP
+#EXTINF:-1 tvg-id="Canal.HBO.Pop.cr" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/LzjKfRtN/Logohboplus2019.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO POP
 http://playtvch.lat:2082/live/56952540870faceztv/Casa4663/30416.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/Fkt1xsZ9/HBO-Family-LATAM-Teal.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO FAMILY
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.cr" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/Fkt1xsZ9/HBO-Family-LATAM-Teal.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",HBO FAMILY
 http://fivetv.org:25461/play/M90vjxdRJ5mdJnn5rByKqj597XNUAp9_lSUDcm2yLCGAUzFKS5U1AwhHEOLL7csw/ts
 
-#EXTINF:-1 tvg-id="USA SERIES" tvg-name="USA SERIES" tvg-logo="https://i.ibb.co/M5hycnLT/usa-network-seeklogo.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",USA SERIES
+#EXTINF:-1 tvg-id="Canal.USA.Network.(Costa.Rica).cr" tvg-name="USA SERIES" tvg-logo="https://i.ibb.co/M5hycnLT/usa-network-seeklogo.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",USA SERIES
 http://playtvch.lat:2082/Frankyvarela/91682929262/30628
 
 #EXTINF:-1 tvg-id="DHE" tvg-logo="https://i.ibb.co/wF23Ls4M/canal-dhe-seeklogo.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",DHE
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769392.m3u8
 
-#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL" tvg-logo="https://i.ibb.co/8WZ4rPz/Cinecanal-HD-April-2010-1.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINECANAL
-http://redworld.pro:8880/marcos6@72639/81266785849/414479
+#EXTINF:-1 tvg-id="Canal.Cinecanal.(México).mx" tvg-name="CINECANAL" tvg-logo="https://i.ibb.co/8WZ4rPz/Cinecanal-HD-April-2010-1.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINECANAL
+http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769441.m3u8
 
-#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="STAR CHANNEL" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STAR CHANNEL
-http://redworld.pro:8880/marcos6@72639/81266785849/414459
+#EXTINF:-1 tvg-id="Canal.Star.Channel.(México).mx" tvg-name="STAR CHANNEL" tvg-logo="" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STAR CHANNEL
+http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769135.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/2YWbz4K1/Cinemax-2011-Yellow.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINEMAX
-http://redworld.pro:8880/marcos6@72639/81266785849/414457
+#EXTINF:-1 tvg-id="Canal.Cinemax.(Costa.Rica).cr" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/2YWbz4K1/Cinemax-2011-Yellow.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",CINEMAX
+http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769432.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/hxn1HWgt/TNT-Latinoam-rica-2011.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",TNT
 http://playtvch.lat:2082/Frankyvarela/91682929262/82030
 
-#EXTINF:-1 tvg-id="Golden" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/Xx5vw6Bx/Golden-Edge.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN
+#EXTINF:-1 tvg-id="Canal.Golden.(Costa.Rica).cr" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/Xx5vw6Bx/Golden-Edge.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN
 http://fivetv.org:25461/play/M90vjxdRJ5mdJnn5rByKqj597XNUAp9_lSUDcm2yLCEFcTFIu_Deq44KcVlGQJ3f/ts
 
 #EXTINF:-1 tvg-id="Golden +" tvg-name="GOLDEN +" tvg-logo="https://i.ibb.co/rRyY0kRq/Golden-Plus-LA-2020.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN +
@@ -111,10 +108,10 @@ http://redworld.pro:8880/marcos6@72639/81266785849/414516
 #EXTINF:-1 tvg-id="Golden Premier" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/DD1B56Lb/Golden-Premier.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN PREMIER
 http://tvq.lat:8080/rslamtv/SNA8mxMqqHLd/577866
 
-#EXTINF:-1 tvg-id="Golden Edge" tvg-name="GOLDEN EDGE" tvg-logo="https://i.ibb.co/Xx5vw6Bx/Golden-Edge.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN EDGE
+#EXTINF:-1 tvg-id="Canal.Golden.Edge.cr" tvg-name="GOLDEN EDGE" tvg-logo="https://i.ibb.co/Xx5vw6Bx/Golden-Edge.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",GOLDEN EDGE
 http://fivetv.org:25461/play/M90vjxdRJ5mdJnn5rByKqj597XNUAp9_lSUDcm2yLCH6l8V4utPH0NAFiZavLKPQ/ts
 
-#EXTINF:-1 tvg-id="Universal Tv" tvg-name="UNIVERSAL TV" tvg-logo="https://i.ibb.co/rKn3yzw1/Universal-TV-logo.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",UNIVERSAL TV
+#EXTINF:-1 tvg-id="Canal.Universal.TV.(Costa.Rica).cr" tvg-name="UNIVERSAL TV" tvg-logo="https://i.ibb.co/rKn3yzw1/Universal-TV-logo.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",UNIVERSAL TV
 http://redworld.pro:8880/marcos6@72639/81266785849/414494
 
 #EXTINF:-1 tvg-id="Universal Premier" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://i.ibb.co/S4F6tDcj/universal-premiere-seeklogo.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",UNIVERSAL PREMIER
@@ -126,13 +123,10 @@ http://maxiptv.streamtv.to:8080/live/Bf2Tqo4UQe/xzUjvFcY8J/11268.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/pBfZ1jBR/universal-studios-pictures-4518.png" group-title="Peliculas y Series" tvg-group="Peliculas y Series",STUDIO UNIVERSAL
 http://grace4k.com:80/live/Q8NAHTP490Q3KVA/nGJGtAF8Sv/30652.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME" tvg-logo="https://i.ibb.co/ZpFShpjr/Lifetime-2020.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",LIFETIME
+#EXTINF:-1 tvg-id="Canal.Lifetime.(México).mx" tvg-name="LIFETIME" tvg-logo="https://i.ibb.co/ZpFShpjr/Lifetime-2020.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",LIFETIME
 http://grace4k.com:80/live/Q8NAHTP490Q3KVA/nGJGtAF8Sv/140299.m3u8
 
-#EXTINF:-1 tvg-id="Multipremier" tvg-name="MULTIPREMIER" tvg-logo="https://i.ibb.co/Y7KXYcgr/Multipremier-logo-svg.webp" group-title="Peliculas y Series" tvg-group="Peliculas y Series",MULTIPREMIER
-http://fivetv.org:25461/play/M90vjxdRJ5mdJnn5rByKqj597XNUAp9_lSUDcm2yLCFxmiGWSQZYjq4LByuHNd0n/ts
-
-#EXTINF:-1 tvg-id="Panico" tvg-name="PANICO" tvg-logo="https://i.ibb.co/M5ZLQp3Y/Paniconvv.webp" group-title="Peliculas y Series" tvg-group="Peliculas y Series",PANICO
+#EXTINF:-1 tvg-id="Panico.cr" tvg-name="PANICO" tvg-logo="https://i.ibb.co/M5ZLQp3Y/Paniconvv.webp" group-title="Peliculas y Series" tvg-group="Peliculas y Series",PANICO
 http://latinostream.xyz:80/live/USm9Dmft32/AwfRDr5VeB/769430.m3u8
 
 #EXTINF:-1 tvg-id="Space" tvg-name="SPACE" tvg-logo="https://i.ibb.co/svH6XHsy/Space-2008.jpg" group-title="Peliculas y Series" tvg-group="Peliculas y Series",SPACE
